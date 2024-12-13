@@ -2263,10 +2263,4 @@
 		9 Company Airship
 		9 Tonberry Knife
 		9 Imperial Outpost
-	[BasicSlot(1)]
-		80 Plains_EOR
-		80 Island_EOR
-		80 Swamp_EOR
-		80 Mountain_EOR
-		80 Forest_EOR
 	
