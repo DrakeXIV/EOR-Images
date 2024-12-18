@@ -203,7 +203,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Giant Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Admirals%20Scourge.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Admiral%27s%20Scourge.jpg"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Leviathans%20Grasp.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Leviathan%27s%20Grasp.jpg"
 	        }
 	    },
 	    {
@@ -594,12 +594,12 @@
 	        }
 	    },
 	    {
-	        "name": "Keeper of the Harvest",
+	        "name": "Keeper of Seasons",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Azra Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Keeper%20of%20the%20Harvest.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Keeper%20of%20Seasons.jpg"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Godric%20Aether%20Weaver.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Godric%2c%20Aether%20Weaver.jpg"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Legendary Creature — Elf Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Selune%20Trained%20Shadow.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Selune%2c%20Trained%20Shadow.jpg"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Bellona%20Proud%20Legatus.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Bellona%2c%20Proud%20Legatus.jpg"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Creature — Giant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Rostnfyr%20Wild%20Axe.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Rostnfyr%2c%20Wild%20Axe.jpg"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Legendary Creature — Cat Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Lakshai%20Sun%20Seeker.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Lakshai%2c%20Sun%20Seeker.jpg"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Legendary Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hildebrand%20Gentleman%20Heir.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Hildebrand%2c%20Gentleman%20Heir.jpg"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Legendary Creature — Goblin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mutamix%20Materia%20Savant.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mutamix%2c%20Materia%20Savant.jpg"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Legendary Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Echidna%20Ark%20Remnant.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Echidna%2c%20Ark%20Remnant.jpg"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nezha%20Crimson%20Cloak.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nezha%2c%20Crimson%20Cloak.jpg"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Legendary Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Arnr%20Veteran%20Adventurer.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Arnr%2c%20Veteran%20Adventurer.jpg"
 	        }
 	    },
 	    {
@@ -887,27 +887,27 @@
 	        "mana_cost": "{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Troubadours%20Melody.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Troubadour%27s%20Melody.jpg"
 	        }
 	    },
 	    {
-	        "name": "Sagolii Desert",
+	        "name": "Sagolii Desert // Gold Saucer // Gold Saucer",
 	        "mana_cost": "{2}{W} // {3}{W}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sagolii%20Desert.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sagolii%20Desert%20//%20Gold%20Saucer.jpg"
 	        }
 	    },
 	    {
-	        "name": "Thornmarch",
+	        "name": "Thornmarch // Mogscourt // Mogscourt",
 	        "mana_cost": "{2}{W} // {2}{W}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Thornmarch.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Thornmarch%20//%20Mogscourt.jpg"
 	        }
 	    },
 	    {
@@ -974,13 +974,13 @@
 	        }
 	    },
 	    {
-	        "name": "Grand Archive",
+	        "name": "Grand Archive // Gubal Library // Gubal Library",
 	        "mana_cost": "{3}{U} // {1}{U}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Grand%20Archive.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Grand%20Archive%20//%20Gubal%20Library.jpg"
 	        }
 	    },
 	    {
@@ -993,13 +993,13 @@
 	        }
 	    },
 	    {
-	        "name": "Sastasha Seagrot",
+	        "name": "Sastasha Seagrot // Pirate Cove // Pirate Cove",
 	        "mana_cost": "{U} // {2}{U}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sastasha%20Seagrot.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sastasha%20Seagrot%20//%20Pirate%20Cove.jpg"
 	        }
 	    },
 	    {
@@ -1012,13 +1012,13 @@
 	        }
 	    },
 	    {
-	        "name": "Forward Camp",
+	        "name": "Forward Camp // Carteneau Flats // Carteneau Flats",
 	        "mana_cost": "{B} // {3}{B}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Forward%20Camp.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Forward%20Camp%20//%20Carteneau%20Flats.jpg"
 	        }
 	    },
 	    {
@@ -1067,13 +1067,13 @@
 	        }
 	    },
 	    {
-	        "name": "Dravanian Ruin",
+	        "name": "Dravanian Ruin // Stone Vigil // Stone Vigil",
 	        "mana_cost": "{1}{B} // {4}{B}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dravanian%20Ruin.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dravanian%20Ruin%20//%20Stone%20Vigil.jpg"
 	        }
 	    },
 	    {
@@ -1118,7 +1118,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Plains.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Plains_EOR.jpg"
 	        }
 	    },
 	    {
@@ -1127,7 +1127,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Island.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Island_EOR.jpg"
 	        }
 	    },
 	    {
@@ -1136,7 +1136,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Swamp.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Swamp_EOR.jpg"
 	        }
 	    },
 	    {
@@ -1145,7 +1145,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mountain.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Mountain_EOR.jpg"
 	        }
 	    },
 	    {
@@ -1154,7 +1154,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Forest.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Forest_EOR.jpg"
 	        }
 	    },
 	    {
@@ -1167,12 +1167,12 @@
 	        }
 	    },
 	    {
-	        "name": "Feather Dancer",
+	        "name": "Feather Dervish",
 	        "rarity": "uncommon",
 	        "mana_cost": "{R}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Feather%20Dancer.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Feather%20Dervish.jpg"
 	        }
 	    },
 	    {
@@ -1212,13 +1212,13 @@
 	        }
 	    },
 	    {
-	        "name": "Last Bastion",
+	        "name": "Last Bastion // Rising Stones // Rising Stones",
 	        "mana_cost": "{4}{R} // {1}{R}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Last%20Bastion.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Last%20Bastion%20//%20Rising%20Stones.jpg"
 	        }
 	    },
 	    {
@@ -1231,12 +1231,12 @@
 	        }
 	    },
 	    {
-	        "name": "Coerced Conscription",
+	        "name": "Baptised in Flame",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Coerced%20Conscription.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Baptised%20in%20Flame.jpg"
 	        }
 	    },
 	    {
@@ -1294,12 +1294,12 @@
 	        }
 	    },
 	    {
-	        "name": "Grazing Aldgoat",
+	        "name": "Territorial Phurble",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{G}",
-	        "type": "Creature — Goat Beast ",
+	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Grazing%20Aldgoat.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Territorial%20Phurble.jpg"
 	        }
 	    },
 	    {
@@ -1312,23 +1312,23 @@
 	        }
 	    },
 	    {
-	        "name": "Frontier Vista",
+	        "name": "Frontier Vista // Foothill Camp // Foothill Camp",
 	        "mana_cost": "{3}{G} // {1}{G}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Frontier%20Vista.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Frontier%20Vista%20//%20Foothill%20Camp.jpg"
 	        }
 	    },
 	    {
-	        "name": "Sylvan Grove",
+	        "name": "Sylvan Grove // Illusory Thicket // Illusory Thicket",
 	        "mana_cost": "{1}{G} // {2}{G}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sylvan%20Grove.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Sylvan%20Grove%20//%20Illusory%20Thicket.jpg"
 	        }
 	    },
 	    {
@@ -1487,7 +1487,7 @@
 	    {
 	        "name": "Cruise Chaser",
 	        "rarity": "rare",
-	        "mana_cost": "{6}",
+	        "mana_cost": "{5}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Cruise%20Chaser.jpg"
@@ -1521,13 +1521,13 @@
 	        }
 	    },
 	    {
-	        "name": "Burning Gaol",
+	        "name": "Burning Gaol // Halatali Crucible // Halatali Crucible",
 	        "mana_cost": "{1}{R} // {R}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Burning%20Gaol.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Burning%20Gaol%20//%20Halatali%20Crucible.jpg"
 	        }
 	    },
 	    {
@@ -1554,7 +1554,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Minfilia%20Scion%20Antecedent.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Minfilia%2c%20Scion%20Antecedent.jpg"
 	        }
 	    },
 	    {
@@ -1585,13 +1585,13 @@
 	        }
 	    },
 	    {
-	        "name": "Crystalline Floe",
+	        "name": "Crystalline Floe // Aether Drift // Aether Drift",
 	        "mana_cost": "{2}{W} // {2}{W}",
 	        "layout": "split",
 	        "rarity": "rare",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Crystalline%20Floe.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Crystalline%20Floe%20//%20Aether%20Drift.jpg"
 	        }
 	    },
 	    {
@@ -1627,7 +1627,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Legendary Planeswalker — Marilye ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Marilye%20Veiled%20Deceiver.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Marilye%2c%20Veiled%20Deceiver.jpg"
 	        }
 	    },
 	    {
@@ -1645,7 +1645,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Legendary Creature — Giant Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Merlwyb%20Storm%20Admiral.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Merlwyb%2c%20Storm%20Admiral.jpg"
 	        }
 	    },
 	    {
@@ -1667,13 +1667,13 @@
 	        }
 	    },
 	    {
-	        "name": "Syrcus Tower",
+	        "name": "Syrcus Tower // Allagan Records // Allagan Records",
 	        "mana_cost": "{1}{U} // {3}{U}",
 	        "layout": "split",
 	        "rarity": "rare",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Syrcus%20Tower.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Syrcus%20Tower%20//%20Allagan%20Records.jpg"
 	        }
 	    },
 	    {
@@ -1700,7 +1700,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Legendary Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gaius%20Sable%20Legatus.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Gaius%2c%20Sable%20Legatus.jpg"
 	        }
 	    },
 	    {
@@ -1740,13 +1740,13 @@
 	        }
 	    },
 	    {
-	        "name": "Dun Scaith",
+	        "name": "Dun Scaith // Demonic Gate // Demonic Gate",
 	        "mana_cost": "{4}{B} // {2}{B}",
 	        "layout": "split",
 	        "rarity": "rare",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dun%20Scaith.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dun%20Scaith%20//%20Demonic%20Gate.jpg"
 	        }
 	    },
 	    {
@@ -1773,7 +1773,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Legendary Creature — Dwarf Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nanamo%20Grand%20Sultana.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Nanamo%2c%20Grand%20Sultana.jpg"
 	        }
 	    },
 	    {
@@ -1795,13 +1795,13 @@
 	        }
 	    },
 	    {
-	        "name": "Guerilla Tunnels",
+	        "name": "Guerilla Tunnels // Kobold Forge // Kobold Forge",
 	        "mana_cost": "{4}{R} // {5}{R}",
 	        "layout": "split",
 	        "rarity": "rare",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Guerilla%20Tunnels.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Guerilla%20Tunnels%20//%20Kobold%20Forge.jpg"
 	        }
 	    },
 	    {
@@ -1819,7 +1819,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dragons%20Plight.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Dragon%27s%20Plight.jpg"
 	        }
 	    },
 	    {
@@ -1855,7 +1855,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Legendary Creature — Dryad Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Senna%20Seedseer%20Matron.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Senna%2c%20Seedseer%20Matron.jpg"
 	        }
 	    },
 	    {
@@ -1877,13 +1877,13 @@
 	        }
 	    },
 	    {
-	        "name": "Jungle Respite",
+	        "name": "Flourishing Respite // Jungle Longstop // Jungle Longstop",
 	        "mana_cost": "{3}{G} // {2}{G}",
 	        "layout": "split",
 	        "rarity": "rare",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Jungle%20Respite.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Flourishing%20Respite%20//%20Jungle%20Longstop.jpg"
 	        }
 	    },
 	    {
@@ -1928,7 +1928,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Legendary Planeswalker — Ajani ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ajani%20in%20a%20Strange%20Land.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Ajani%2c%20in%20a%20Strange%20Land.jpg"
 	        }
 	    },
 	    {
@@ -1995,57 +1995,57 @@
 	        }
 	    },
 	    {
-	        "name": "Avenue Exchange",
+	        "name": "Avenue Exchange // Salvage Shop // Salvage Shop",
 	        "mana_cost": "{1}{R} // {R}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Avenue%20Exchange.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Avenue%20Exchange%20//%20Salvage%20Shop.jpg"
 	        }
 	    },
 	    {
-	        "name": "Flock Stampede",
+	        "name": "Flock Stampede // Uncovered Ruins // Uncovered Ruins",
 	        "mana_cost": "{3}{W} // {1}{W}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Flock%20Stampede.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Flock%20Stampede%20//%20Uncovered%20Ruins.jpg"
 	        }
 	    },
 	    {
-	        "name": "Haunted Manor",
+	        "name": "Haukke Manor // Mistress Bedroom // Mistress Bedroom",
 	        "mana_cost": "{1}{B} // {2}{B}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Haunted%20Manor.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Haukke%20Manor%20//%20Mistress%20Bedroom.jpg"
 	        }
 	    },
 	    {
-	        "name": "Relict Isle",
+	        "name": "Relict Isle // Pharos Sirius // Pharos Sirius",
 	        "mana_cost": "{U} // {U}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Relict%20Isle.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Relict%20Isle%20//%20Pharos%20Sirius.jpg"
 	        }
 	    },
 	    {
-	        "name": "Skirmish Point",
+	        "name": "Skirmish Point // Seal Rock // Seal Rock",
 	        "mana_cost": "{3}{G} // {2}{G}",
 	        "layout": "split",
 	        "rarity": "uncommon",
 	        "type": "Enchantment Battle — Path ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Skirmish%20Point.jpg"
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Skirmish%20Point%20//%20Seal%20Rock.jpg"
 	        }
 	    }
 	]
-	[RareSlot(2)]
+	[RareSlot(1)]
 		1 Hallowed Fountain
 		1 Watery Grave
 		1 Blood Crypt
@@ -2062,7 +2062,7 @@
 		1 A Hero of Light
 		1 Gysahl Glutton
 		1 Snowcloak Herald
-		1 Crystalline Floe
+		1 Crystalline Floe // Aether Drift
 		1 A Realm Reborn
 		1 Skyline Trickster
 		1 Riptide Matriarch
@@ -2071,7 +2071,7 @@
 		1 Merlwyb, Storm Admiral
 		1 The Bottomless Crags
 		1 Brave the Cold
-		1 Syrcus Tower
+		1 Syrcus Tower // Allagan Records
 		1 Hired Assassin
 		1 Cloud of Darkness
 		1 Gaius, Sable Legatus
@@ -2079,13 +2079,13 @@
 		1 Keeper of the Vault
 		1 From the Thirteenth
 		1 Desperate Measures
-		1 Dun Scaith
+		1 Dun Scaith // Demonic Gate
 		1 Auspice of Rebirth
 		1 Field Commander
 		1 Nanamo, Grand Sultana
 		1 The Smoldering Bowl
 		1 New World Tyrant
-		1 Guerilla Tunnels
+		1 Guerilla Tunnels // Kobold Forge
 		1 Reckless Research
 		1 Travelling Companion
 		1 Champion of the Harvest
@@ -2093,7 +2093,7 @@
 		1 Senna, Seedseer Matron
 		1 Coalesced Fate
 		1 The Tempestuous Eye
-		1 Jungle Respite
+		1 Flourishing Respite // Jungle Longstop
 		1 Unexpected Venture
 		1 Legacy of the Antecedent
 		1 Magitek Vanguard
@@ -2106,7 +2106,7 @@
 		1 Thunderous Applause
 		1 Surging Aether
 		1 Nymian Ritual
-	[UncommonSlot(4)]
+	[UncommonSlot(3)]
 		2 Godric, Aether Weaver
 		2 Selune, Trained Shadow
 		2 Bellona, Proud Legatus
@@ -2126,8 +2126,8 @@
 		2 Pursy Pussy
 		2 Pomguard Squad
 		2 Troubadour's Melody
-		2 Sagolii Desert
-		2 Thornmarch
+		2 Sagolii Desert // Gold Saucer
+		2 Thornmarch // Mogscourt
 		2 Elusive Aurelia
 		2 Surecast Adept
 		2 Starlit Skykeeper
@@ -2135,40 +2135,40 @@
 		2 Skilled Aesthetician
 		2 Crystalline Brigand
 		2 Scrap Submersible
-		2 Grand Archive
+		2 Grand Archive // Gubal Library
 		2 Whirlwind Denial
-		2 Sastasha Seagrot
+		2 Sastasha Seagrot // Pirate Cove
 		2 Recruit a Friend
-		2 Forward Camp
+		2 Forward Camp // Carteneau Flats
 		2 Lingering Revenant
 		2 Corrupted Sailor
 		2 Praefectus Executor
 		2 Ominous Ahriman
 		2 Gaping Maw
-		2 Dravanian Ruin
+		2 Dravanian Ruin // Stone Vigil
 		2 Refined Ceruleum
 		2 Fatal Push
 		2 Take from the Source
 		2 Futures Forfeit
 		2 Cadet Instructor
-		2 Feather Dancer
+		2 Feather Dervish
 		2 Armored Panther
 		2 Twinblade Dervish
 		2 Frenzied Marauder
 		2 Frontline Excercise
-		2 Last Bastion
+		2 Last Bastion // Rising Stones
 		2 Dancing Mad
-		2 Coerced Conscription
+		2 Baptised in Flame
 		2 Orchard Keeper
 		2 Faetouched Vagabond
 		2 Sharlayan Gleaner
 		2 Chocobokeep
 		2 Synergize
 		2 Deepwood Watcher
-		2 Grazing Aldgoat
+		2 Territorial Phurble
 		2 Rugged Guardian
-		2 Frontier Vista
-		2 Sylvan Grove
+		2 Frontier Vista // Foothill Camp
+		2 Sylvan Grove // Illusory Thicket
 		2 Choose Your Weapon
 		2 Lifeless Expanse
 		2 Vibrant Sandbar
@@ -2180,14 +2180,14 @@
 		2 Moonshard Golem
 		2 Prototype Walker
 		2 Soul Crystals
-		2 Burning Gaol
+		2 Burning Gaol // Halatali Crucible
 		2 Dragon's Plight
-		2 Avenue Exchange
-		2 Flock Stampede
-		2 Haunted Manor
-		2 Relict Isle
-		2 Skirmish Point
-	[CommonSlot(9)]
+		2 Avenue Exchange // Salvage Shop
+		2 Flock Stampede // Uncovered Ruins
+		2 Haukke Manor // Mistress Bedroom
+		2 Relict Isle // Pharos Sirius
+		2 Skirmish Point // Seal Rock
+	[CommonSlot(10)]
 		4 Scouting Talon
 		4 Stillglade Initiate
 		4 Fortemps Exemplar
@@ -2254,7 +2254,7 @@
 		4 Arboretum Cluster
 		4 Hinterland Highlander
 		4 Coerthas Traditionalist
-		4 Keeper of the Harvest
+		4 Keeper of Seasons
 		4 Apiary Protector
 		4 Territorial Canopy
 		4 Borderlands Longhorn
