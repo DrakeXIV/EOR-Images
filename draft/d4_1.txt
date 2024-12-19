@@ -2043,6 +2043,15 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Skirmish%20Point.jpg"
 	        }
+	    },
+		{
+	        "name": "Map_EOR",
+	        "mana_cost": "0",
+	        "rarity": "common",
+	        "type": "Token Artifact - Map",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DrakeXIV/EOR-Images/refs/heads/main/images/Map.jpg"
+	        }
 	    }
 	]
 	[RareSlot(2)]
@@ -2274,4 +2283,6 @@
 		20 Swamp_EOR
 		20 Mountain_EOR
 		20 Forest_EOR
+	[TokenSlot(1)]
+		30 Map_EOR
 	
